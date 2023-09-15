@@ -11,7 +11,7 @@ latitude: "-26.132200"        # decimal latitude of workshop venue (use https://
 longitude: "28.118940"       # decimal longitude of the workshop venue (use https://www.latlong.net)
 humandate: " Sep 26 - 29, 2023"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00 am - 1:00 pm SAST (11:00 am - 3:00 pm UTC)"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
-startdate: 2023-09-25      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+startdate: 2023-09-26      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2023-09-29        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Jean Baptiste Fankam Fankam", "Morteza Waskasi", "Refilwe Kai-Sikhakhane", "Eli Chadwick"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: [""]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
